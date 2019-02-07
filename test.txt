@@ -1,4 +1,6 @@
-t
+
+This is first line
+This is second linet
 exit
 
 
